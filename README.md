@@ -3,12 +3,12 @@ You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicl
 
 ![Vehicle Sales Analysis.](images/car_sales_eda.jpg 'Vehicle Sales analysis.')  
 
-![Sedan mileage Analysis.](images/eda_vehicle_mileage_price.jpg 'Sedan mileage analysis.')  
+![Sedan mileage Analysis.](images/eda_vehicle_mileage_price.png 'Sedan mileage analysis.')  
 
 
-![Sedan Analysis.](images/eda_vehicle_price_condition.jpg 'Sedan analysis.')  
+![Sedan Analysis.](images/eda_vehicle_price_condition.png 'Sedan analysis.')  
 
-![Vehicle Transmission type.](images/eda_vehicles_transmission_boxplot.jpg 'Vehicle Transmission type.')  
-![Vehicle Paint Color.](images/eda_vehicles_paint_color_boxplot.jpg 'Vehicle Paint color.')  
+![Vehicle Transmission type.](images/eda_vehicles_transmission_boxplot.png 'Vehicle Transmission type.')  
+![Vehicle Paint Color.](images/eda_vehicles_paint_color_boxplot.png 'Vehicle Paint color.')  
 
 
