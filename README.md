@@ -42,7 +42,7 @@ From the above plot , we see that with the better condition ,price increases.
 As mileage increases ,price reduces though not very significantly..  
 
 #### SUV Transmission
-![SUV Transmission type.](images/eda_suv_transmission_box.png 'SUV Transmission type.')    
+![SUV Transmission type.](images/eda_suv_transmission.png 'SUV Transmission type.')    
 
 #### SUV Paint color   
 ![SUV Paint colors.](images/eda_suv_color_box.png 'SUV Paint Colors.')  
