@@ -23,18 +23,39 @@ The above graph shows that most of the ads were around 0-50 days..
 ![Vehicle types and ad.](images/eda_vehicle_type_ad.png 'Vehicle types and ad.')  
 SUV and sedan are the vehicle types with greatest number of ads.  
 
-![SUV mileage Analysis.](images/eda_vehicle_mileage_price.png 'SUV mileage analysis.')  
+### SUV Analysis  
+
+#### Sedan Age vs Price
+![SUV Age Analysis.](images/eda_suv_age_price.png 'SUV Age analysis.')  
+
+#### Sedan Condition vs Price  
+![SUV condition Analysis.](images/eda_suv_condition_price.png 'SUV condition analysis.')  
+
+#### Sedan Mileage vs Price
+![SUV mileage Analysis.](images/eda_suv_mileage_price.png 'SUV mileage analysis.')  
 As mileage increases ,price reduces though not very significantly..  
 
-![Sedan Analysis.](images/eda_vehicle_price_condition.png 'Sedan analysis.')  
-
-
+#### Sedan Transmission
 ![SUV Transmission type.](images/eda_vehicles_transmission_boxplot.png 'SUV Transmission type.')    
 
-![SUV Transmission type.](images/eda_vehicles_transmission_boxplot.png 'SUV Transmission type.')  
+#### Sedan Paint color   
+![SUV Paint colors.](images/eda_suv_color_box.png 'SUV Paint Colors.')  
 
+### Sedan Analysis.  
 
+#### Sedan Age vs Price  
+![Sedan Age vs Price.](images/eda_vehicle_age_price.png 'Sedan Age vs Price.') 
 
+#### Sedan Mileage vs Price  
+![Sedan Mileage vs Price.](images/eda_vehicle_meleage_price.png 'Sedan Mileage vs Price.') 
+
+#### Sedan Condition vs Price  
+![Sedan Analysis.](images/eda_vehicle_price_condition.png 'Sedan analysis.')  
+
+#### Sedan Transmission   
+![Sedan Transmission.](images/eda_vehicles_transmission_boxplot.png 'Sedan Transmission.')  
+
+#### Sedan Paint Color.  
 ![Vehicle Paint Color.](images/eda_vehicles_paint_color_boxplot.png 'Vehicle Paint color.')    
 
 # Final Conclusion.  
