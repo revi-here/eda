@@ -29,7 +29,12 @@ As mileage increases ,price reduces though not very significantly..
 ![Sedan Analysis.](images/eda_vehicle_price_condition.png 'Sedan analysis.')  
 
 
-![Vehicle Transmission type.](images/eda_vehicles_transmission_boxplot.png 'Vehicle Transmission type.')  
+![SUV Transmission type.](images/eda_vehicles_transmission_boxplot.png 'SUV Transmission type.')    
+
+![SUV Transmission type.](images/eda_vehicles_transmission_boxplot.png 'SUV Transmission type.')  
+
+
+
 ![Vehicle Paint Color.](images/eda_vehicles_paint_color_boxplot.png 'Vehicle Paint color.')    
 
 # Final Conclusion.  
